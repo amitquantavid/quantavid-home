@@ -1,0 +1,11 @@
+.border{
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.line-height-3{
+    line-height: 3;
+}
+small{
+    font-size: 70%;
+}

@@ -1,0 +1,18 @@
+.border{
+    border: none;
+}
+.btn-back1{
+    width: 167px;
+    height: 48px;
+    border: 2px solid #1B4087;
+    border-radius: 4px;
+}
+.btn-back1:hover{
+    background: rgba(27, 64, 135, 1);
+}
+
+.ul-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

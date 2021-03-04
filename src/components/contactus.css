@@ -1,0 +1,97 @@
+/* .contactUs {
+    width: 100%;
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.pixabay.com/photo/2020/11/01/21/45/architecture-5705042_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.contact__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.map {
+    width: 40%;
+    height: 80%;
+}
+.map iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.form__contact {
+    width: 40%;
+    height: 80%;
+    background: white;
+    padding: 2rem 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form__contact h1 {
+    font-size: 2vw;
+    color: #2B353E;
+}
+
+.form__contact input {
+    padding: 0.6rem 1rem;
+    font-size: 1vw;
+    outline: 1px solid #1B4087;
+}
+
+.form__contact textarea {
+    font-size: 1vw;
+    outline: 1px solid #1B4087;
+    padding: 0 1rem;
+}
+
+.form__contact button {
+    padding: 0.6rem 1rem;
+    width: 40%;
+    font-size: 1vw;
+    cursor: pointer;
+    background: #1B4087;
+    border-radius: 4px;
+    color: white;
+    border: none;
+}
+
+.user__info {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 768px) {
+    .contactUs {
+        height: max-content;
+        padding: 2rem 0;
+    }
+    .contact__box {
+        flex-direction: column;
+        width: 100vw;
+    }
+    .form__contact h1 {
+        font-size: 6vw;
+        margin-bottom: 0.5rem;
+    }
+    .map {
+        width: 80%;
+    }
+    .form__contact {
+        width: 80%;
+        padding: 1rem;
+    }
+    .user__info {
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    
+    .form__contact textarea, .form__contact input, .form__contact button {
+        font-size: 4vw;
+        margin-bottom: 1rem;
+    }
+} */

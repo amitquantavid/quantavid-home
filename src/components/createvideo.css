@@ -1,0 +1,8 @@
+.margin-left{
+    margin-left: 80px;
+}
+
+.card:hover {
+    transform: none !important;
+    box-shadow: none !important;
+}
